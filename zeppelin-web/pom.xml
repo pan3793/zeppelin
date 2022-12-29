@@ -28,7 +28,7 @@
 
   <artifactId>zeppelin-web</artifactId>
   <packaging>war</packaging>
-  <name>Zeppelin: web Application</name>
+  <name>Zeppelin: Web Application</name>
 
   <properties>
     <web.e2e.disabled>true</web.e2e.disabled>
